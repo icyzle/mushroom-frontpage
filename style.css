@@ -50,7 +50,7 @@ body {
   width: 200%;
   height: 200%;
   background: radial-gradient(circle, rgba(120,100,255,0.15), transparent 70%);
-  filter: blur(100px);
+  filter: blur(20px);
   animation: fogMove 20s ease-in-out infinite alternate;
 }
 
