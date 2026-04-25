@@ -49,7 +49,6 @@ body {
   position: absolute;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle, rgba(120,100,255,0.15), transparent 70%);
   animation: fogMove 20s ease-in-out infinite alternate;
 }
 
