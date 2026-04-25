@@ -101,9 +101,9 @@ button:hover {
 /* CONTAINER */
 .nav-cards {
   position: absolute;
-  bottom: 40px;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 120px;
+  left: 160px;
+  transform: none;
   display: flex;
   gap: 20px;
   z-index: 10;
